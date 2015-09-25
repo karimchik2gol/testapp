@@ -15,7 +15,7 @@ set :deploy_to, "/home/deployer/apps/blog"
 set :scm, :git
 set :scm_passphrase, "Youtubechannel2015"
 #set :branch, "master"
-set :repo_url, 'https://github.com/karimchik2gol/testapadsadssdap'
+set :repo_url, 'https://github.com/karimchik2gol/testapp'
 
 set :user, "deployer"
 set :rails_env, "production"
